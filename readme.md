@@ -52,6 +52,10 @@ Containers are distributed as GitHub reposetories and could be used as [template
 
 - https://github.com/LorenzoTinfena/data-science-vscode-remote-development-template
 
+### Elixir
+
+- https://github.com/hspaans/elixir-devcontainer
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
