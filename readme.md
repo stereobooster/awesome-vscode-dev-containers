@@ -56,6 +56,10 @@ Containers are distributed as GitHub reposetories and could be used as [template
 
 - https://github.com/hspaans/elixir-devcontainer
 
+### OCaml
+
+- https://github.com/johnnymn/ocaml-devcontainer
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
