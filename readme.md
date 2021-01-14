@@ -60,6 +60,10 @@ Containers are distributed as GitHub reposetories and could be used as [template
 
 - https://github.com/johnnymn/ocaml-devcontainer
 
+### Idris
+
+- https://github.com/stereobooster/idris-vscode-remote-development-template
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
