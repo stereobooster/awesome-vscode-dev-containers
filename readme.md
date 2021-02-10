@@ -64,6 +64,10 @@ Containers are distributed as GitHub reposetories and could be used as [template
 
 - https://github.com/stereobooster/idris-vscode-remote-development-template
 
+### V lang
+
+- https://github.com/stereobooster/v-vscode-remote-development-template
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
